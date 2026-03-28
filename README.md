@@ -22,6 +22,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha-19&layout=compact&theme=dark" />
 </p>
 
+<br/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Harsha-19&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 ---
 
 <p align="center">
