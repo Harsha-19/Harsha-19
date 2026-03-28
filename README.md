@@ -11,17 +11,19 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harsha-19&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Harsha-19&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Harsha-19&theme=dark&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=Harsha-19&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha-19&layout=compact&theme=dark&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha-19&layout=compact&theme=dark" />
 </p>
 
 ---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Harsha-19&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
