@@ -16,9 +16,7 @@
   <img src="https://streak-stats.demolab.com?user=Harsha-19&theme=dark" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha-19&layout=compact&theme=dark" />
-</p>
+
 
 <br/>
 
